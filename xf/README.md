@@ -9,7 +9,21 @@
 [使用体验百度网盘下载地址——提取码：p3ta ](链接：https://pan.baidu.com/s/1sS2Nglji7CUwH_sLSpcePQ)
 [git源码下载地址](链接：https://gitee.com/wokaixin/a_fragrant_fly)
 ```
-![首页](https://raw.githubusercontent.com/tanyichen/img/master/xf/index.png)
+![首页1](https://raw.githubusercontent.com/tanyichen/img/master/xf/index.png)
+![首页2](https://raw.githubusercontent.com/tanyichen/img/master/xf/index1.png)
+![商铺列表](https://raw.githubusercontent.com/tanyichen/img/master/xf/shoplist.png)
+![商铺首页](https://raw.githubusercontent.com/tanyichen/img/master/xf/shop.png)
+![订单详情](https://raw.githubusercontent.com/tanyichen/img/master/xf/orders.png)
+![订单列表](https://raw.githubusercontent.com/tanyichen/img/master/xf/orders1.png)
+![提示消息](https://raw.githubusercontent.com/tanyichen/img/master/xf/msg.png)
+![提示消息-订单](https://raw.githubusercontent.com/tanyichen/img/master/xf/msgOrders.png)
+![个人中心](https://raw.githubusercontent.com/tanyichen/img/master/xf/wode1.png)
+![个人信息修改](https://raw.githubusercontent.com/tanyichen/img/master/xf/wodeupdate.png)
+![头像表单](https://raw.githubusercontent.com/tanyichen/img/master/xf/headimg.png)
+![地址表单](https://raw.githubusercontent.com/tanyichen/img/master/xf/address.png)
+![商品表单1](https://raw.githubusercontent.com/tanyichen/img/master/xf/editor1.png)
+![商品表单2](https://raw.githubusercontent.com/tanyichen/img/master/xf/editor2.png)
+![商品表单3](https://raw.githubusercontent.com/tanyichen/img/master/xf/editor3.png)
 ####支持打包：
 ```
 1、安卓；
